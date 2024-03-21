@@ -1,5 +1,4 @@
-# wi-fi-hacking
-![0_fGnIMEeeF5QDrlzT (3)](https://user-images.githubusercontent.com/88341460/204089350-9d4d2490-57de-467d-9717-9cf8b5ecee97.jpg)
+# WI-FI-hacking
 
 
 # Feutures and Containt :
